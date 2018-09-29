@@ -10,7 +10,7 @@ The following **required** functionality is completed:
 
 - [x] Table rows for search results should be dynamic height according to the content height. (3pt)
 - [x] Custom cells should have the proper Auto Layout constraints. (+5pt)
-- [ ] Search bar should be in the navigation bar (doesn't have to expand to show location like the real Yelp app does). (+2pt)
+- [x] Search bar should be in the navigation bar (doesn't have to expand to show location like the real Yelp app does). (+2pt)
 
 The following **stretch** features are implemented:
 
@@ -24,14 +24,14 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. Have restaurant detailView appear when clicked
+2. Have search bar go to restaurant that is searched
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/OgeS15n.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
